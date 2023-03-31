@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "499727000436",
+    "project_id": "flutterfirebase-97dc8",
+    "storage_bucket": "flutterfirebase-97dc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499727000436:android:499e3798deede82e100221",
+        "android_client_info": {
+          "package_name": "com.example.flutter_biometric"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499727000436-muqbjrdm3ps7qns3hbpaiscifd2vm83e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBLLTJcnMXDU4SRpZnN4jaZrlC0GU1jqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499727000436-muqbjrdm3ps7qns3hbpaiscifd2vm83e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
