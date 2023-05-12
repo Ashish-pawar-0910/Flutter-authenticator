@@ -64,7 +64,8 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: splash(),
+      // home: splash(),
+      home: const splash(),
       // initialRoute: "/home",S
       // define routes here
       routes: {
